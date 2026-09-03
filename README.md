@@ -1,4 +1,4 @@
-# Insurgency-LAN-Launcher
+# Insurgency2014-LAN-Launcher
 This is a Launcher that let's you play Insurgency 2014 LAN easily without just typing commands in the console. It wasn't made by me, Gemini (Google AI) made it. And after some edits and testing it worked! and i know just 1% of how to use HTML (this file is .hta)
 # Features
 * **Auto LAN IP Display:** Automatically fetches your active IPv4 address via `ipconfig` so you don't have to open CMD to find it.
